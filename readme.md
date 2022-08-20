@@ -1,3 +1,4 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?text=조민수%20입니다.&fontColor=eee&type=soft&color=00ff0000&animation=twinkling&fontSize=50"
 />
 
@@ -13,3 +14,4 @@
 <img src="https://img.shields.io/badge/Docker-000?logo=Docker">
 <img src="https://img.shields.io/badge/Jenkins-000?logo=Jenkins">
 <img src="https://img.shields.io/badge/EC2-000?logo=Amazon-EC2">
+</div>
